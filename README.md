@@ -6,6 +6,9 @@
 ( Tak potwierdzam d=====(￣▽￣*)b ta informacja jest bardzo fajna [giga czadowa] )
 
  ༼ つ ◕_◕ ༽つ ![ptaszor](ptaszor.png)
+
+ ### Link do mojej strony na githyb pages
+ [cool-moose.github.io](https://cool-moose.github.io/)
 <!--
 **cool-moose/cool-moose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
