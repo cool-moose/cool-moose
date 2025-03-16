@@ -7,11 +7,6 @@
 
  ༼ つ ◕_◕ ༽つ ![ptaszor](ptaszor.png)
 
- ### Mój fork tensorflow
- [repozytorium](https://github.com/cool-moose/tensorflow_fork_test)
- #### artykuł który mnie zainspirował
- [artykuł](https://paperswithcode.com/paper/tensorflow-large-scale-machine-learning-on)
-
  ### Link do mojej strony na github pages
  [cool-moose.github.io](https://cool-moose.github.io/)
 <!--
